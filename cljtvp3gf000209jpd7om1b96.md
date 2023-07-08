@@ -16,7 +16,7 @@ So, as I’m also studying programming, and creating WordPress plugins and stuff
 
 Unfortunately, Github’s Gists are not the perfect tool to store your snippets. It is not organizable, tagable or searchable. BUT there is a tool called Lepton. This is an open-source, cross-platform snippet manager tool. You can connect your GitHub account to it, and you can reach your snippets via the application.
 
-It has a clear interface and of course a dark mode as well that I like to work with. So this tool loads all your gists, and by that, you can edit them, add a name to them, and even tag them as well. Like that, you can have everything organized. Also, the tool recognizes the language your snippet was written in. So it is really handy. Ans you can search them as well.
+It has a clear interface and of course a dark mode as well that I like to work with. So this tool loads all your gists, and by that, you can edit them, add a name to them, and even tag them as well. Like that, you can have everything organized. Also, the tool recognizes the language your snippet was written in. So it is really handy. And you can search them as well.
 
 As a Linux user, it was important to have an app that can be installed on Linux. since Lepton is a cross-platform tool and also has a free version, it was the best choice. I have tried many of its alternatives as well, but Lepton was the winner for me. So if you are searching for a tool like that. You should go with Lepton.
 
