@@ -83,7 +83,7 @@ Since I've done everything in the project so far, I'd also like to organize ever
 
 ### 2024-02-13
 
-Today I cleaned up the repositories. That means I deleted all the folders that we don't need. Peter Bagi asked his tutor that the initial folder structure is just a template, so we can modify it as needed. I did so.
+Today I cleaned up the repositories. That means I deleted all the folders that we don't need. My Teammate asked his tutor that the initial folder structure is just a template, so we can modify it as needed. I did so.
 
 I also created the projects, milestones and tasks for the repository. 3 projects to be exact. Separately, for each of our programs.
 
